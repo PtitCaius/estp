@@ -18,7 +18,7 @@ Le résultat attendu est un petit logiciel qui affiche la température du proces
 
 ## Exercice 2
 
-Le but de cet exercice est de se familiariser avec la librairie opencv. Un template de projet vide est fourni, et il faut compléter le code afin d'activer la caméra et afficher le flux vidéo. Des ressources sont disponible sur ce site web ainsi que dans la documentation officielle d'OpenCV.
+Le but de cet exercice est de se familiariser avec la librairie opencv. Un template de projet vide est fourni, et il faut compléter le code afin d'activer la caméra et afficher le flux vidéo. Des ressources sont disponible sur [ce site web](https://www.opencv-srf.com/2017/12/play-video-from-file-or-camera.html) ainsi que dans la documentation officielle d'OpenCV.
 
 ## Exercice 3
 
