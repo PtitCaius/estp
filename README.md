@@ -24,5 +24,7 @@ Le but de cet exercice est de se familiariser avec la librairie opencv. Un templ
 
 Le dernier exercice sera dédié a la partie design d'interface utilisateur. Il faudra utiliser l'onglet design de Qtcreator afin de créer un interface utilisateur qui comporte plusieurs boutons (voir image en dessous). 
 
+![image](./TP_01_ex3.png)
+
 Ces boutons devront être associés à des actions. il faudra seulement cliquer droit sur le bouton dans l'onglet design -> aller au slot -> clicked. Cela va automatiquement créer un slot (comme au premier exercice), dans lequel il faudra seulement mettre la ligne suivante :
 `qDebug() << "Nom du Bouton";`
