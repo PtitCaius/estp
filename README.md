@@ -28,3 +28,10 @@ Le dernier exercice sera dédié a la partie design d'interface utilisateur. Il 
 
 Ces boutons devront être associés à des actions. il faudra seulement cliquer droit sur le bouton dans l'onglet design -> aller au slot -> clicked. Cela va automatiquement créer un slot (comme au premier exercice), dans lequel il faudra seulement mettre la ligne suivante :
 `qDebug() << "Nom du Bouton";`
+
+
+# Reconnaissance d'image
+
+Il faut aller sur ce site pour avoir une présentation de la méthode de reconnaissance faciale que l'on va utiliser dans notre projet.
+
+https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html
